@@ -20,12 +20,12 @@
 | Project Name   | Description                                | Link |
 |----------------|--------------------------------------------|------|
 | **KazMovie** | The first thing I did was my own project    | [View on GitHub]() |
-| **BusinessMarket**  | My personal portfolio websit Figma layout from the internet    | [View on GitHub]() |
+| **BusinessMarket**  | My personal portfolio websit Figma layout from the internet    | [View on GitHub](https://github.com/Bekarys044/BusinessMarket) |
 | **Virtualr** | My personal portfolio websit Figma layout from the internet   | [View on GitHub]() |
 
 ## 📫 Contact Me
 
-- Email: bekarys.dev@gmail.com  
+- Email: dairovbekarys0406@gmail.com 
 - GitHub: [Bekarys044](https://github.com/Bekarys044)  
 - Telegram: [@bekarys_dev](https://t.me/Bekk)
 
