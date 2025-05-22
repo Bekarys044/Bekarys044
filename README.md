@@ -28,7 +28,7 @@
 
 - Email: dairovbekarys0406@gmail.com 
 - GitHub: [Bekarys044](https://github.com/Bekarys044)  
-- Telegram: [@bekarys](https://t.me/Bekk)
+- Telegram: [@bekarys](https://t.me/DairovBekk)
 
 ## 🎯 My Goals
 
